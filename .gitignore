@@ -1,0 +1,7 @@
+*.o
+*.a
+*.out
+*Zone*
+push_swap_Tester
+.vscode/
+minilibx-linux/
